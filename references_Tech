@@ -17,22 +17,50 @@ java-
 
 html/css-
   w3school
+  html multimedia-
+        https://www.yourwebskills.com/htmlobject.php
   
 UI=
   bootstrap-
     https://getbootstrap.com/docs/4.0/components/forms/
+    https://loiane.com/2017/08/how-to-add-bootstrap-to-an-angular-cli-project/
+    https://medium.com/codingthesmartway-com-blog/using-bootstrap-with-angular-c83c3cee3f4a
+    https://datatables.net/examples/styling/bootstrap4.html
+  
+  jquery datatable-
+        https://datatables.net/
+    
   mdMaterial-
       https://mdbootstrap.com/
+      https://mdbootstrap.com/wp-content/themes/mdbootstrap4/content/jquery/tutorials/bootstrap/tutorial-2/10/index.html
+      https://mdbootstrap.com/live/_MDB/index/docs/skins/navy-blue-skin.html?#!
+      
   angular material-
       https://material.angular.io
+      
   angular-spring-
       http://websystique.com/springmvc/spring-mvc-4-angularjs-example/
+      https://github.com/angular/angular-cli
+      
+  angular doc-
+      https://www.npmjs.com/package/compodoc
+      
   typescript-
       https://www.typescriptlang.org/docs/handbook/basic-types.html
+      
+  npm-
+        https://www.npmjs.com/package/react-validation
+        
+  react js-
+        https://reacttraining.com/react-router/web/guides/quick-start
+        https://react.semantic-ui.com/introduction
+        http://www.thegreatcodeadventure.com/the-react-plus-redux-container-pattern/
+        https://github.com/reduxjs/redux/tree/master/examples/todos
   
 java script-
   https://developer.mozilla.org/bm/docs/Web/JavaScript/Guide
   w3school
+  http://todomvc.com/examples/vanillajs/
 
 spring- 
   spring.io,durgasoft, 
@@ -43,12 +71,35 @@ spring scurity-
      https://docs.spring.io/spring-security/site/docs/current/reference/html/jc.html
      https://o7planning.org/en/10305/simple-login-java-web-application-using-spring-mvc-spring-security-and-spring-jdbc
      http://websystique.com/spring-security-tutorial/
+     https://www.logicbig.com/tutorials/spring-framework/spring-security/jdbc-server-mode-authentication.html
+     https://github.com/spring-projects/spring-security/tree/5.0.4.RELEASE/samples/boot/oauth2login
+     http://websystique.com/spring-security-tutorial/
+     https://howtodoinjava.com/spring/spring-security/xml-config-based-method-level-spring-security-using-protect-pointcut/
      
+ spring-hibernate-
+    https://howtodoinjava.com/spring/spring-orm/spring-3-and-hibernate-integration-tutorial-with-example/
+   
+  okta-
+        https://developer.okta.com/blog/2017/11/20/add-sso-spring-boot-15-min
+        https://developer.okta.com/blog/2017/03/16/spring-boot-saml
 video site ref-
     https://coverr.co/
     
 rest-
     https://jersey.github.io/
+    https://mydevgeek.com/angular-4-crud-application-with-spring-boot-rest-service-part-1/
+    https://howtodoinjava.com/resteasy/jax-rs-2-0-resteasy-3-0-2-final-security-tutorial/
+    https://docs.jboss.org/resteasy/docs/2.0.0.GA/userguide/html/Installation_Configuration.html
+    https://javatutorial.net/java-file-upload-rest-service
+
+Android tutorial-
+      1)udacity 2)udemy
+      https://www.quora.com/in/Where-can-I-get-Udacity-course-videos-for-free-Is-there-any-way-that-people-who-cant-afford-to-pay-such-high-prices-can-view-the-tutorial-videos-for-free
+ 
+AWS-
     
 language converter-
       http://vikku.info/indian-language-unicode-converter/hindi-unicode-converter.html
+      
+eclips error-
+    https://crunchify.com/how-to-fix-cannot-change-version-of-project-facet-dynamic-web-module-to-3-0-error-in-eclipse/
