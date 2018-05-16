@@ -18,8 +18,17 @@ java-
 html/css-
   w3school
   
-bootstrap-
-  https://getbootstrap.com/docs/4.0/components/forms/
+UI=
+  bootstrap-
+    https://getbootstrap.com/docs/4.0/components/forms/
+  mdMaterial-
+      https://mdbootstrap.com/
+  angular material-
+      https://material.angular.io
+  angular-spring-
+      http://websystique.com/springmvc/spring-mvc-4-angularjs-example/
+  typescript-
+      https://www.typescriptlang.org/docs/handbook/basic-types.html
   
 java script-
   https://developer.mozilla.org/bm/docs/Web/JavaScript/Guide
@@ -34,3 +43,12 @@ spring scurity-
      https://docs.spring.io/spring-security/site/docs/current/reference/html/jc.html
      https://o7planning.org/en/10305/simple-login-java-web-application-using-spring-mvc-spring-security-and-spring-jdbc
      http://websystique.com/spring-security-tutorial/
+     
+video site ref-
+    https://coverr.co/
+    
+rest-
+    https://jersey.github.io/
+    
+language converter-
+      http://vikku.info/indian-language-unicode-converter/hindi-unicode-converter.html
