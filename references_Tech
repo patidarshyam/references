@@ -103,3 +103,14 @@ language converter-
       
 eclips error-
     https://crunchify.com/how-to-fix-cannot-change-version-of-project-facet-dynamic-web-module-to-3-0-error-in-eclipse/
+    
+    
+google apis- 
+    https://developers.google.com
+    
+youtube data api-
+    url for getting youtube channel comments-
+        https://www.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=<videoId>&key=<Api key>
+    url for getting youtube channel videos details-
+        https://www.googleapis.com/youtube/v3/activities?part=snippet,contentDetails&channelId=UCElOzfXwxasnM7q8kpnD7jQ&key=<Api key>&maxResults=50
+        channel id =UCElOzfXwxasnM7q8kpnD7jQ
