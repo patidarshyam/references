@@ -3,7 +3,13 @@ github-
   https://github.com/ishanjuneja,
   https://github.com/aakashjangid,
   
-
+Apache POI for Excel file-
+    http://poi.apache.org/spreadsheet/quick-guide.html#NewSheet
+    http://www.ewebtutorials.com/?s=import+data+to+Excel+using+JAVA+and+Apache+POI+API
+    
+iText for PDF file-
+    https://developers.itextpdf.com/examples/content-extraction-and-redaction-itext5/extracting-objects-pdf
+    http://www.vogella.com/tutorials/JavaPDF/article.html
 hibernate- 
   https://docs.jboss.org/hibernate/orm/3.3/reference/en/html/tutorial.html,
   https://www.journaldev.com/3793/hibernate-tutorial?utm_source=website&utm_medium=menubar&utm_campaign=Top-Menu-Bar,
@@ -114,3 +120,4 @@ youtube data api-
     url for getting youtube channel videos details-
         https://www.googleapis.com/youtube/v3/activities?part=snippet,contentDetails&channelId=UCElOzfXwxasnM7q8kpnD7jQ&key=<Api key>&maxResults=50
         channel id =UCElOzfXwxasnM7q8kpnD7jQ
+
