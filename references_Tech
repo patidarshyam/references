@@ -2,6 +2,7 @@ github-
   (pankaj sir)github/webutech/javatrack, 
   https://github.com/ishanjuneja,
   https://github.com/aakashjangid,
+  https://github.com/koushikkothagal/spring-boot-microservices-workshop
   
 Apache POI for Excel file-
     http://poi.apache.org/spreadsheet/quick-guide.html#NewSheet
@@ -19,8 +20,10 @@ hibernate-
 
 java-
   javadoc,
-  kethisera book
- website - java revisited
+  kethisera book,
+  youtube: java brains channel 
+  website - java revisited
+ 
 html/css-
   w3school
   html multimedia-
@@ -126,4 +129,10 @@ youtube data api-
     url for getting youtube channel videos details-
         https://www.googleapis.com/youtube/v3/activities?part=snippet,contentDetails&channelId=UCElOzfXwxasnM7q8kpnD7jQ&key=<Api key>&maxResults=50
         channel id =UCElOzfXwxasnM7q8kpnD7jQ
+        
+microservices-
+    https://github.com/koushikkothagal/spring-boot-microservices-workshop
+    https://youtu.be/y8IQb4ofjDo
+    java Brains channel
+    
 
